@@ -13,4 +13,9 @@ dependencies = [
     "pandas>=2.3.3",
     "python-dotenv>=1.2.1",
     "tqdm>=4.67.1",
+    "jupyter>=1.0.0",
+    "nbconvert>=7.0.0",
+    "ipykernel>=6.0.0",
+    "matplotlib>=3.0.0",
+    "seaborn>=0.12.0",
 ]
